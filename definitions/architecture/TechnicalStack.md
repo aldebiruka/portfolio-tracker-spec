@@ -1,6 +1,7 @@
 # Stack Technologique
 
 ## Frontend
+- serveur web: Nginx
 - Framework: React avec TypeScript
 - State Management: Zustand
 - UI Components: Material-UI

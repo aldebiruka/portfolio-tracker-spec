@@ -29,6 +29,8 @@ Application de suivi de portefeuille d'investissements avec :
 - Transactions (historique)
 - Watchlists (listes de surveillance)
 - Alerts (notifications personnalisées)
+- Depots (ajout d'argent au portfolio)
+- Retraits (sortie d'argent du portfolio)
 
 ### État Frontend (Zustand)
 - AuthStore (authentification)

@@ -22,6 +22,18 @@
 - `PUT /api/portfolios/{id}/transactions/{transactionId}` - Mise à jour d'une transaction
 - `DELETE /api/portfolios/{id}/transactions/{transactionId}` - Suppression d'une transaction
 
+### Gestion des retraits
+- `GET /api/portfolios/{id}/retraits` - Liste des retraits
+- `POST /api/portfolios/{id}/retraits` - Ajout d'une retrait
+- `PUT /api/portfolios/{id}/retraits/{retraitId}` - Mise à jour d'un retrait
+- `DELETE /api/portfolios/{id}/retraits/{retraitId}` - Suppression d'un retrait
+
+### Gestion des depots
+- `GET /api/portfolios/{id}/depots` - Liste des depots
+- `POST /api/portfolios/{id}/depots` - Ajout d'un depot
+- `PUT /api/portfolios/{id}/depots/{depotId}` - Mise à jour d'un depot
+- `DELETE /api/portfolios/{id}/depots/{depotId}` - Suppression d'un depot
+
 ### Gestion de l'historique des transactions
 - `GET /api/portfolios/{id}/transactions/{transactionId}/history` - Historique d'une transaction
 - `GET /api/portfolios/{id}/transactions/history` - Historique complet des transactions du portfolio

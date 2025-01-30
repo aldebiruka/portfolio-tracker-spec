@@ -10,16 +10,16 @@ Voici les fonctionnalités principales pour l'application de suivi de portefeuil
 ## Gestion des portefeuilles :
 - Création/modification/suppression de portefeuilles
 - Pour chaque position :
-- Date d'achat/vente
-- Quantité
-- Prix d'achat/vente
-- Frais de transaction
-- Dividendes reçus
-- Calculs automatiques :
-- Prix moyen d'achat
-- Plus/moins-values latentes et réalisées
-- Performance globale
-- Répartition par secteur/zone géographique
+	- Date d'achat/vente
+	- Quantité
+	- Prix d'achat/vente
+	- Frais de transaction
+	- Dividendes reçus
+	- Calculs automatiques :
+		- Prix moyen d'achat
+		- Plus/moins-values latentes et réalisées
+		- Performance globale
+		- Répartition par secteur/zone géographique
 
 ## Suivi des marchés :
 - Liste de favoris (watchlist)
@@ -50,15 +50,11 @@ Voici les fonctionnalités principales pour l'application de suivi de portefeuil
 - Import de transactions depuis CSV
 - Export des données du portefeuille
 - Génération de rapports PDF
-- Export pour déclaration fiscale
 
 ## Fonctionnalités avancées (pour une v2) :
-- Simulation de scénarios
-- Backtest de stratégies
 - Intégration avec courtiers en ligne
 - Application mobile
 - API publique
-
 
 ## Pour le MVP, nous allons commencer par :
 - Authentification basique

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+  <rect x="20" y="15" width="100" height="30" fill="#ffffff" opacity="0.9"/>
+  <text x="40" y="35" fill="#1976d2" font-family="Arial" font-size="14">LOGO</text>
+  
+  <!-- Login Card -->
+  <rect x="400" y="150" width="400" height="500" fill="#ffffff" rx="8"/>
+  <text x="550" y="200" fill="#1976d2" font-family="Arial" font-size="24" text-anchor="middle">Welcome Back</text>
+  
+  <!-- OAuth Buttons -->
+  <rect x="450" y="300" width="300" height="50" fill="#4285f4" rx="4"/>
+  <text x="600" y="330" fill="#ffffff" font-family="Arial" font-size="16" text-anchor="middle">Continue with Google</text>
+  
+  <rect x="450" y="370" width="300" height="50" fill="#3b5998" rx="4"/>
+  <text x="600" y="400" fill="#ffffff" font-family="Arial" font-size="16" text-anchor="middle">Continue with Facebook</text>
+  
+  <!-- Footer Links -->
+  <text x="550" y="500" fill="#666666" font-family="Arial" font-size="12" text-anchor="middle">Terms of Service | Privacy Policy</text>
+</svg>

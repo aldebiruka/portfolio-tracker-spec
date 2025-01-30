@@ -23,3 +23,7 @@
 - Le prénom et le nom sont obligatoires
 - Seul un administrateur peut créer d'autres administrateurs
 - Un administrateur a accès à toutes les fonctionnalités
+- un administrateur peut créer des portfolios pour un utilisateur
+- un administrateur peut créer des retraits pour un utilisateur
+- un administrateur peut créer des depots pour un utilisateur
+

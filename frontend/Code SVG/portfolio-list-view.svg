@@ -1,0 +1,41 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+  <rect x="20" y="15" width="100" height="30" fill="#ffffff" opacity="0.9"/>
+  <text x="40" y="35" fill="#ffffff" font-family="Arial" font-size="14">Portfolio Tracker</text>
+  
+  <!-- Page Title -->
+  <g transform="translate(20, 80)">
+    <text font-family="Arial" font-size="24" fill="#212121">Mes Portfolios</text>
+    <rect x="900" y="-10" width="150" height="40" rx="20" fill="#2196f3"/>
+    <text x="925" y="20" font-family="Arial" font-size="14" fill="#ffffff">+ Nouveau Portfolio</text>
+  </g>
+
+  <!-- Portfolio Cards -->
+  <g transform="translate(20, 140)">
+    <!-- Portfolio 1 -->
+    <rect width="380" height="200" rx="4" fill="#ffffff" stroke="#e0e0e0"/>
+    <text x="20" y="30" font-family="Arial" font-size="18" fill="#212121">Portfolio Principal</text>
+    <text x="20" y="60" font-family="Arial" font-size="14" fill="#757575">15 positions</text>
+    <text x="20" y="90" font-family="Arial" font-size="24" fill="#212121">543,210 €</text>
+    <text x="20" y="120" font-family="Arial" font-size="16" fill="#4caf50">+8.45%</text>
+  </g>
+
+  <g transform="translate(410, 140)">
+    <!-- Portfolio 2 -->
+    <rect width="380" height="200" rx="4" fill="#ffffff" stroke="#e0e0e0"/>
+    <text x="20" y="30" font-family="Arial" font-size="18" fill="#212121">Investissements LT</text>
+    <text x="20" y="60" font-family="Arial" font-size="14" fill="#757575">8 positions</text>
+    <text x="20" y="90" font-family="Arial" font-size="24" fill="#212121">234,567 €</text>
+    <text x="20" y="120" font-family="Arial" font-size="16" fill="#f44336">-2.31%</text>
+  </g>
+
+  <g transform="translate(800, 140)">
+    <!-- Portfolio 3 -->
+    <rect width="380" height="200" rx="4" fill="#ffffff" stroke="#e0e0e0"/>
+    <text x="20" y="30" font-family="Arial" font-size="18" fill="#212121">Trading Court Terme</text>
+    <text x="20" y="60" font-family="Arial" font-size="14" fill="#757575">5 positions</text>
+    <text x="20" y="90" font-family="Arial" font-size="24" fill="#212121">98,765 €</text>
+    <text x="20" y="120" font-family="Arial" font-size="16" fill="#4caf50">+15.67%</text>
+  </g>
+</svg>

@@ -3,7 +3,6 @@
 ## Attributs
 - id: Identifiant unique
 - type: Type de transaction (ACHAT/VENTE)
-- symbol: Symbole de l'actif
 - quantity: Quantité
 - price: Prix unitaire
 - fees: Frais de transaction

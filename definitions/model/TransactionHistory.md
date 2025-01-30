@@ -3,7 +3,6 @@
 ## Attributs
 - id: Identifiant unique
 - transactionId: Référence à la transaction
-- portfolioId: Référence au portfolio
 - type: Type d'opération (CRÉATION/MODIFICATION/SUPPRESSION)
 - oldValues: Anciennes valeurs (en JSON)
 - newValues: Nouvelles valeurs (en JSON)
