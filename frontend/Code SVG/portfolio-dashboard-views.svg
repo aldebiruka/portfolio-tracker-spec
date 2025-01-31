@@ -1,0 +1,47 @@
+<svg viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dashboard (0-800) -->
+  <g transform="translate(0,0)">
+    <!-- Header -->
+    <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+    <text x="20" y="35" fill="#ffffff" font-family="Arial" font-size="16">Portfolio Tracker</text>
+    
+    <!-- Sidebar -->
+    <rect x="0" y="60" width="250" height="740" fill="#f5f5f5"/>
+    
+    <!-- Main Content -->
+    <rect x="250" y="60" width="950" height="740" fill="#ffffff"/>
+    
+    <!-- KPI Cards -->
+    <rect x="270" y="80" width="280" height="150" fill="#e3f2fd" rx="4"/>
+    <rect x="570" y="80" width="280" height="150" fill="#e3f2fd" rx="4"/>
+    <rect x="870" y="80" width="280" height="150" fill="#e3f2fd" rx="4"/>
+    
+    <!-- Performance Chart -->
+    <rect x="270" y="250" width="880" height="250" fill="#e3f2fd" rx="4"/>
+    
+    <!-- Portfolio Table -->
+    <rect x="270" y="520" width="880" height="260" fill="#e3f2fd" rx="4"/>
+  </g>
+
+  <!-- Portfolio Detail (800-1600) -->
+  <g transform="translate(0,800)">
+    <!-- Header & Sidebar (same) -->
+    <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+    <rect x="0" y="60" width="250" height="740" fill="#f5f5f5"/>
+    
+    <!-- Portfolio Header -->
+    <rect x="270" y="80" width="880" height="80" fill="#e3f2fd" rx="4"/>
+    
+    <!-- Tabs -->
+    <rect x="270" y="180" width="880" height="40" fill="#bbdefb"/>
+    
+    <!-- Position List -->
+    <rect x="270" y="240" width="880" height="400" fill="#ffffff"/>
+    <rect x="290" y="260" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="330" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="400" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    
+    <!-- Actions Bar -->
+    <rect x="270" y="660" width="880" height="60" fill="#e3f2fd" rx="4"/>
+  </g>
+</svg>
