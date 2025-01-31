@@ -12,9 +12,6 @@
 
 ### Gestion des positions
 - `GET /api/portfolios/{id}/positions` - Liste des positions
-- `POST /api/portfolios/{id}/positions` - Ajout d'une position
-- `PUT /api/portfolios/{id}/positions/{positionId}` - Mise à jour d'une position
-- `DELETE /api/portfolios/{id}/positions/{positionId}` - Suppression d'une position
 
 ### Gestion des transactions
 - `GET /api/portfolios/{id}/transactions` - Liste des transactions

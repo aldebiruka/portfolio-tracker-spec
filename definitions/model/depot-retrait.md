@@ -1,4 +1,4 @@
-# Depot / retrait
+# depot-retrait
 
 ## Attributs
 - id: Identifiant unique

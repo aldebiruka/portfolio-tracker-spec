@@ -38,6 +38,13 @@
 - `GET /portfolios/{id}/cash-flows` - Mouvements de trésorerie
 - `GET /portfolios/{id}/performance` - Performance du portfolio
 
+### Dépôts et Retraits (/api/v1/portfolios/{id}/depots-retraits)
+- `GET /portfolios/{id}/depots-retraits` - Liste des dépôts et retraits
+- `POST /portfolios/{id}/depots-retraits` - Création d'un dépôt ou d'un retrait
+- `GET /portfolios/{id}/depots-retraits/{depotRetraitId}` - Détail d'un dépôt ou d'un retrait
+- `PUT /portfolios/{id}/depots-retraits/{depotRetraitId}` - Mise à jour d'un dépôt ou d'un retrait
+- `DELETE /portfolios/{id}/depots-retraits/{depotRetraitId}` - Suppression d'un dépôt ou d'un retrait
+
 ### Positions (/api/v1/positions)
 - `GET /positions` - Liste des positions
 - `POST /positions` - Création d'une position

@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Positions View (0-800) -->
+  <g transform="translate(0,0)">
+    <!-- Standard Header & Sidebar -->
+    <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+    <rect x="0" y="60" width="250" height="740" fill="#f5f5f5"/>
+    
+    <!-- Filters Bar -->
+    <rect x="270" y="80" width="880" height="60" fill="#e3f2fd" rx="4"/>
+    
+    <!-- Positions Grid -->
+    <rect x="270" y="160" width="880" height="500" fill="#ffffff"/>
+    <rect x="290" y="180" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="250" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="320" width="840" height="60" fill="#f5f5f5" rx="4"/>
+    
+    <!-- Action Buttons -->
+    <rect x="270" y="680" width="880" height="60" fill="#e3f2fd" rx="4"/>
+  </g>
+
+  <!-- Transactions View (800-1600) -->
+  <g transform="translate(0,800)">
+    <!-- Standard Header & Sidebar -->
+    <rect x="0" y="0" width="1200" height="60" fill="#1976d2"/>
+    <rect x="0" y="60" width="250" height="740" fill="#f5f5f5"/>
+    
+    <!-- Date Range Selector -->
+    <rect x="270" y="80" width="880" height="60" fill="#e3f2fd" rx="4"/>
+    
+    <!-- Transactions List -->
+    <rect x="270" y="160" width="880" height="500" fill="#ffffff"/>
+    <rect x="290" y="180" width="840" height="50" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="240" width="840" height="50" fill="#f5f5f5" rx="4"/>
+    <rect x="290" y="300" width="840" height="50" fill="#f5f5f5" rx="4"/>
+    
+    <!-- Summary Footer -->
+    <rect x="270" y="680" width="880" height="60" fill="#e3f2fd" rx="4"/>
+  </g>
+</svg>
